@@ -1,0 +1,96 @@
+.items
+{
+  display: inline-block;
+}
+
+.card_vis
+{
+  width: 29%;
+  background-color: #eee;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 1%;
+  display: inline-block;
+}
+.card_invis
+{
+  width: 29%;
+  background-color: #f00;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 1%;
+  display: inline-block;
+  opacity: 100%;
+}
+.card-img
+{
+  border-radius: 5px;
+}
+.card-title
+{
+  margin: 0px;
+}
+
+.card-button-hide
+{
+  margin: 5px;
+  text-align: center;
+}
+
+.card-button-show
+{
+  margin: 5px;
+  text-align: center;
+}
+
+.card-button-delete
+{
+  margin: 5px;
+  text-align: center;
+}
+
+.card-button
+{
+  margin: 5px;
+  text-align: center;
+}
+
+.header
+{
+  background-color: #eee;
+  text-align: center;
+  padding: 0.1%;
+}
+
+.header-element
+{
+  display: inline;
+  margin: 3%;
+}
+
+.link
+{
+  text-decoration: none;
+}
+
+.list
+{
+  list-style: none;
+}
+
+.footer
+{
+  background-color: #eee;
+  padding: 0.1%;
+}
+
+.About
+{
+  padding: 50px;
+  margin: 100px;
+
+}
+.staff
+{
+  margin: 50px;
+}
