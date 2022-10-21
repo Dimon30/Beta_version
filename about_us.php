@@ -9,7 +9,7 @@
 </head>
 <body>
   <?php require "blocks/header.php"; ?>
-  <div class="About">
+  <div class="about">
     <h1>A</h1>
   </div>
   <button class="button-back"><a href="index.php">Назад</a></button>

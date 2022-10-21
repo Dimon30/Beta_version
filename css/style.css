@@ -1,10 +1,8 @@
-.items
-{
+.items {
   display: inline-block;
 }
 
-.card_vis
-{
+.card-vis {
   width: 29%;
   background-color: #eee;
   border-radius: 20px;
@@ -12,8 +10,8 @@
   margin: 1%;
   display: inline-block;
 }
-.card_invis
-{
+
+.card-invis {
   width: 29%;
   background-color: #f00;
   border-radius: 20px;
@@ -22,75 +20,65 @@
   display: inline-block;
   opacity: 100%;
 }
-.card-img
-{
+
+.card-img {
   border-radius: 5px;
 }
-.card-title
-{
+
+.card-title {
   margin: 0px;
 }
 
-.card-button-hide
-{
+.card-button-hide {
   margin: 5px;
   text-align: center;
 }
 
-.card-button-show
-{
+.card-button-show {
   margin: 5px;
   text-align: center;
 }
 
-.card-button-delete
-{
+.card-button-delete {
   margin: 5px;
   text-align: center;
 }
 
-.card-button
-{
+.card-button {
   margin: 5px;
   text-align: center;
 }
 
-.header
-{
+.header {
   background-color: #eee;
   text-align: center;
   padding: 0.1%;
 }
 
-.header-element
-{
+.header-element {
   display: inline;
   margin: 3%;
 }
 
-.link
-{
+.link {
   text-decoration: none;
 }
 
-.list
-{
+.list {
   list-style: none;
 }
 
-.footer
-{
+.footer {
   background-color: #eee;
   padding: 0.1%;
 }
 
-.About
-{
+.about {
   padding: 50px;
   margin: 100px;
 
 }
-.staff
-{
+
+.staff {
   margin: 50px;
 }
